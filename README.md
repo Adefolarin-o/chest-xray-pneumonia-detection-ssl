@@ -95,7 +95,7 @@ An IPyWidgets interface allows:
    - Open in Google Colab or Jupyter.
    - Execute cells sequentially.
 3. **Skipping Training**:
-   - If pretrained models are available, skip training and load saved models.
+   - If pretrained models are available, skip cells 11-14(training and evaluation) and load saved models.
 4. **Exploring Predictions**:
    - Use the Interactive Test Explorer to analyze model behavior.
 
