@@ -1,4 +1,4 @@
-# Chest X‑Ray Pneumonia Detection using Self‑Supervised Learning (SSL) by [Your Group Name]
+# Chest X‑Ray Pneumonia Detection using Self‑Supervised Learning (SSL) 
 
 ## Project Overview
 This project implements a deep learning pipeline for detecting pneumonia from chest X‑ray images using self‑supervised learning (SSL). The approach is inspired by the SimCLR framework and leverages contrastive learning to pretrain a ResNet50 backbone with a projection head. The pretrained model is then fine‑tuned with a custom classifier to differentiate between NORMAL and PNEUMONIA cases. An interactive test explorer using IPyWidgets is provided to visualize predictions, display confidence scores, and analyze model behavior.
